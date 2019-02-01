@@ -1,0 +1,9 @@
+.idea/
+build/
+dist/
+tralutils.egg-info/
+*.swp
+*.pyc
+.DS_Store
+venv/
+videodata/
